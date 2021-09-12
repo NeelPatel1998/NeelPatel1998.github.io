@@ -3,3 +3,7 @@
 <a href="https://www.linkedin.com/in/neel-patel1998/">
   <img align="left" alt="Neel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="mailto:patel8s1@uwindsor.ca">
+  <img align="left" alt="Neel's LinkedIn" width="22px" src=":e-mail:" />
+</a>
+
