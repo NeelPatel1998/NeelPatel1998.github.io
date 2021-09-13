@@ -4,6 +4,6 @@
   <img align="left" alt="Neel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:patel8s1@uwindsor.ca">
-  <img align="left" alt="Neel's LinkedIn" width="22px" src="https://img.icons8.com/material-rounded/24/000000/mail.png"/>
+  <img align="left" alt="Neel's LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 </a>
 
