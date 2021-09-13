@@ -7,5 +7,5 @@
   <img align="left" alt="patel8s1@uwindsor.ca" width="22px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 </a>
 <a href="tel:2267243643">
-  <img align="left" alt="+12267243643" width="22px" src="https://img.icons8.com/emoji/48/000000/mobile-phone.png"/>
+  <img align="left" alt="+12267243643" width="22px" src="https://img.icons8.com/pastel-glyph/64/000000/iphone-x--v1.png"/>
 </a>
