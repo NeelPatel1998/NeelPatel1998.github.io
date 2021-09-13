@@ -7,4 +7,4 @@
   <img align="left" alt="patel8s1@uwindsor.ca" width="22px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 </a>
 <img align="left" alt="+12267243643" width="22px" src="https://img.icons8.com/emoji/48/000000/mobile-phone.png"/>
-+1-226-724-3643
+: +1(226) 724-3643
