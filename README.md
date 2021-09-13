@@ -4,6 +4,8 @@
   <img align="left" alt="Neel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:patel8s1@uwindsor.ca">
-  <img align="left" alt="Neel's LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
+  <img align="left" alt="patel8s1@uwindsor.ca" width="22px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 </a>
-
+<a href="tel:2267243643">
+  <img align="left" alt="+12267243643" width="22px" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png"/>
+</a>
